@@ -1,0 +1,8 @@
+Interval.java - Behalter, wo eigentlich wird ein Ergebniss gespeichert
+CreateInterval.java - die Klasse, wo eigentlich wird die Analyse gemacht.
+
+Im Eingang wird gesendet 2 Intervals im Forme LimitMin1, LimitMax1,  LimitMin2, LimitMax2 und dann wird die Intervale abgeglichen und das Ergebniss gezzeigt.
+
+Test war nicht realisiert aber als Perspektive:
+1. Noch eine Funktion, die wandelt Zeile als Interval in 2 Zahlen - unteren und oberen Limit. Da ist ersten Test - wenn wird Eingangsparameter kein Zahlen
+Test 2 - weenn einiges Limite sind gleiche. 3. Test 3 - einiges Limiten sind leer (null)
